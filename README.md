@@ -10,6 +10,7 @@
 - dodanie tras, aby przystanki ze sobą nie kolidowały
 - dodanie tras linii 1, 49
 - dodanie systemu wyszukiwania konkretnego przycisku
+- zmiana wyglądu UI przycisków
 
 ![Screenshot_20250331_210808](https://github.com/user-attachments/assets/d0cb90f8-a17d-4706-b55b-d1222e22b7cd)
 ![Screenshot_20250331_210955](https://github.com/user-attachments/assets/7609ae70-6143-4af8-ba70-2e4a64940976)
