@@ -1,1 +1,1 @@
-# MPK-Krak-w---Komunikaty-GPS
+# MPK Kraków - Komunikaty GPS
