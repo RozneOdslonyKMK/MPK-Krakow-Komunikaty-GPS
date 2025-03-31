@@ -4,6 +4,13 @@
 - Projekt ma na celu odtwarzać komunikat głosowy anonimowego lektora z autobusów i tramwajów MPK (przed 19.10.2024, kiedy zamieniono go na Roberta Makłowicza) podczas podchodzenia/podjeżdżania do danego przystanku
 - Aplikacji możesz używać na przykład w pojeździe, w którym nie działają głośniki, lub jest ich brak albo podczas spaceru po trasie autobusów/tramwajów w Krakowie
 
+# Wymagania sprzętowe:
+- System Android 7.0 (lub nowszy)
+- Architektura systemu x86-64 (lub x64)
+- minimum 65 MB wolnej przestrzeni dyskowej
+- dostęp do internetu
+- dostęp do lokalizacji
+
 ## Changelog
 
 # v.0.0.8 Beta
