@@ -6,8 +6,15 @@
 
 ## Changelog
 
+# v.0.0.7 Beta
+- dodanie kilku kolejnych lokalizacji przystanków
+
+![Screenshot_20250331_210247](https://github.com/user-attachments/assets/02755476-3cac-4a8b-951e-6491c67a725d)
+
 # v.0.0.6 Beta
 - dodanie wielu kolejnych lokalizacji przystanków
+
+![Screenshot_20250331_210023](https://github.com/user-attachments/assets/efa66b9f-9ba4-4e17-8a7d-d95163882f37)
 
 # v.0.0.5 Beta
 - dodanie kilku kolejnych lokalizacji przystanków
