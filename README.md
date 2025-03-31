@@ -13,6 +13,12 @@
 
 # Changelog
 
+## v.0.0.11 Beta
+- dodanie tras linii 17, 18, 20, 21, 22, 24, 50, 52, 62, 64, 69, 71, 75, 76, 78, 124
+
+## v.0.0.10 Beta
+- dodanie tras linii 4, 5, 8, 9, 10, 11, 13, 14
+
 ## v.0.0.9 Beta
 - dodanie tras linii 3
 
