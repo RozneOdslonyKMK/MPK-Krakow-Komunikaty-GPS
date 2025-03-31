@@ -13,6 +13,10 @@
 
 # Changelog
 
+## v.0.0.12 Beta
+- dodanie tras linii 238 (w kierunku Młynka Pętla; wszystkie warianty), 248 (w kierunku Zelków Pętla), 424
+- dodanie pustej trasy startowej
+
 ## v.0.0.11 Beta
 - dodanie tras linii 17, 18, 20, 21, 22, 24, 50, 52, 62, 64, 69, 71, 75, 76, 78, 124
 
