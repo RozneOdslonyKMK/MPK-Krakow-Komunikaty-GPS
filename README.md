@@ -6,6 +6,9 @@
 
 ## Changelog
 
+# v.0.0.2 Beta
+- dodanie kilku kolejnych lokalizacji przystanków
+
 # v.0.0.1 Beta
 - dodanie kilku kolejnych lokalizacji przystanków
 
