@@ -6,6 +6,11 @@
 
 ## Changelog
 
+# v.0.0.1 Beta
+- dodanie kilku kolejnych lokalizacji przystanków
+
+![Screenshot_20250331_203116](https://github.com/user-attachments/assets/e3971baa-7412-43e1-921e-004f8512f7d6)
+
 # Pre Version BETA
 - utworzenie aplikacji
 - dodanie nie wszystkich przycisków, które odtwarzają dany komunikat zapowiedzi przystanku poza jego obszarem
