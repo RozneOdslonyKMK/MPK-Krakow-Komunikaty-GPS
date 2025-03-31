@@ -13,6 +13,9 @@
 
 # Changelog
 
+## v.0.0.9 Beta
+- dodanie tras linii 3
+
 ## v.0.0.8 Beta
 - dodanie tras, aby przystanki ze sobą nie kolidowały
 - dodanie tras linii 1, 49
