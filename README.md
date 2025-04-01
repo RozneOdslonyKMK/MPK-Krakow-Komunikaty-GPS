@@ -5,13 +5,16 @@
 - Aplikacji możesz używać na przykład w pojeździe, w którym nie działają głośniki, lub jest ich brak albo podczas spaceru po trasie autobusów/tramwajów w Krakowie
 
 # Wymagania sprzętowe:
-- System Android 7.0 (lub nowszy)
+- System Android 5.0 (lub nowszy)
 - Architektura systemu x86-64 (lub x64)
 - minimum 65 MB wolnej przestrzeni dyskowej
 - dostęp do internetu
 - dostęp do lokalizacji
 
 # Changelog
+
+## v.0.0.13 Beta (31.03.2025)
+- dodanie wspomagania dla systemu Android 5.0
 
 ## v.0.0.12 Beta (31.03.2025)
 - dodanie tras linii 238 (w kierunku Młynka Pętla; wszystkie warianty), 248 (w kierunku Zelków Pętla), 424
