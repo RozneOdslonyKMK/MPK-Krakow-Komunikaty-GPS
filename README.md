@@ -13,6 +13,10 @@
 
 # Changelog
 
+## v.0.0.14 Beta (02.04.2025)
+- dodanie kilku kolejnnych zapowiedzi przystanków
+- dodanie przycisków różnych komunikatów pokładowych niezależnych od trasy
+
 ## v.0.0.13 Beta (31.03.2025)
 - dodanie wspomagania dla systemu Android 5.0
 
