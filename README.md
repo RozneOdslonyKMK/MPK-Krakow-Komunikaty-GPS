@@ -13,6 +13,10 @@
 
 # Changelog
 
+## v0.0.15 Beta (02.04.2025)
+- dodanie tras linii 248 (w kierunku Bronowice Małe)
+- dodanie oznaczenia żółtym tłem tras linii, które mają czasową zmianę trasy, w menu tras
+
 ## v0.0.14 Beta (02.04.2025)
 - dodanie kilku kolejnych zapowiedzi przystanków
 - dodanie przycisków różnych komunikatów pokładowych niezależnych od trasy
