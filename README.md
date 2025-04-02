@@ -13,27 +13,27 @@
 
 # Changelog
 
-## v.0.0.14 Beta (02.04.2025)
-- dodanie kilku kolejnnych zapowiedzi przystanków
+## v0.0.14 Beta (02.04.2025)
+- dodanie kilku kolejnych zapowiedzi przystanków
 - dodanie przycisków różnych komunikatów pokładowych niezależnych od trasy
 
-## v.0.0.13 Beta (31.03.2025)
+## v0.0.13 Beta (31.03.2025)
 - dodanie wspomagania dla systemu Android 5.0
 
-## v.0.0.12 Beta (31.03.2025)
+## v0.0.12 Beta (31.03.2025)
 - dodanie tras linii 238 (w kierunku Młynka Pętla; wszystkie warianty), 248 (w kierunku Zelków Pętla), 424
 - dodanie pustej trasy startowej
 
-## v.0.0.11 Beta (30.03.2025)
+## v0.0.11 Beta (30.03.2025)
 - dodanie tras linii 17, 18, 20, 21, 22, 24, 50, 52, 62, 64, 69, 71, 75, 76, 78, 124
 
-## v.0.0.10 Beta (30.03.2025)
+## v0.0.10 Beta (30.03.2025)
 - dodanie tras linii 4, 5, 8, 9, 10, 11, 13, 14
 
-## v.0.0.9 Beta (28.03.2025)
+## v0.0.9 Beta (28.03.2025)
 - dodanie tras linii 3
 
-## v.0.0.8 Beta (27.03.2025)
+## v0.0.8 Beta (27.03.2025)
 - dodanie tras, aby przystanki ze sobą nie kolidowały
 - dodanie tras linii 1, 49
 - dodanie systemu wyszukiwania konkretnego przycisku
@@ -43,29 +43,29 @@
 ![Screenshot_20250331_210955](https://github.com/user-attachments/assets/7609ae70-6143-4af8-ba70-2e4a64940976)
 ![Screenshot_20250331_211032](https://github.com/user-attachments/assets/888c013c-55f1-46c7-99e0-31014f2fdde3)
 
-## v.0.0.7 Beta (26.03.2025)
+## v0.0.7 Beta (26.03.2025)
 - dodanie kilku kolejnych lokalizacji przystanków
 
 ![Screenshot_20250331_210247](https://github.com/user-attachments/assets/02755476-3cac-4a8b-951e-6491c67a725d)
 
-## v.0.0.6 Beta (21.03.2025)
+## v0.0.6 Beta (21.03.2025)
 - dodanie wielu kolejnych lokalizacji przystanków
 
 ![Screenshot_20250331_210023](https://github.com/user-attachments/assets/efa66b9f-9ba4-4e17-8a7d-d95163882f37)
 
-## v.0.0.5 Beta (13.03.2025)
+## v0.0.5 Beta (13.03.2025)
 - dodanie kilku kolejnych lokalizacji przystanków
 
-## v.0.0.4 Beta (13.03.2025)
+## v0.0.4 Beta (13.03.2025)
 - dodanie kilku kolejnych lokalizacji przystanków
 
-## v.0.0.3 Beta (13.03.2025)
+## v0.0.3 Beta (13.03.2025)
 - dodanie kilku kolejnych lokalizacji przystanków
 
-## v.0.0.2 Beta (11.03.2025)
+## v0.0.2 Beta (11.03.2025)
 - dodanie kilku kolejnych lokalizacji przystanków
 
-## v.0.0.1 Beta (11.03.2025)
+## v0.0.1 Beta (11.03.2025)
 - dodanie kilku kolejnych lokalizacji przystanków
 
 ![Screenshot_20250331_203116](https://github.com/user-attachments/assets/e3971baa-7412-43e1-921e-004f8512f7d6)
