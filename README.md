@@ -87,34 +87,34 @@
 # Plany na aplikację:
 ## - dodać trasy linii:
 ### Linie tramwajowe:
-- ~~1🟨~~
-- ~~3~~
-- ~~4🟨~~
-- ~~5🟨~~
-- ~~8🟨~~
-- ~~9🟨~~
-- ~~10🟨~~
-- ~~11~~
-- ~~13🟨~~
-- ~~14🟨~~
-- ~~17~~
-- ~~18🟨~~
-- ~~20~~
-- ~~21🟨~~
-- ~~22🟨~~
-- ~~24~~
-- ~~49~~
-- ~~50~~
-- ~~52~~
+- 1🟨✅
+- 3✅
+- 4🟨✅
+- 5🟨✅
+- 8🟨✅
+- 9🟨✅
+- 10🟨✅
+- 11✅
+- 13🟨✅
+- 14🟨✅
+- 17✅
+- 18🟨✅
+- 20✅
+- 21🟨✅
+- 22🟨✅
+- 24✅
+- 49✅
+- 50✅
+- 52✅
 ### Linie tramwajowe nocne:
-- ~~62~~
-- ~~64~~
-- ~~69🟨~~
+- 62✅
+- 64✅
+- 69🟨✅
 ### Linie tramwajowe zastępcze:
-- ~~71~~
-- ~~75~~
-- ~~76~~
-- ~~78~~
+- 71✅
+- 75✅
+- 76✅
+- 78✅
 ### Linie autobusowe miejskie:
 - 100
 - 101
@@ -135,7 +135,7 @@
 - 121
 - 122
 - 123
-- ~~124~~
+- 124✅
 - 125
 - 126
 - 127
@@ -231,7 +231,7 @@
 - 244
 - 245
 - 247
-- ~~248~~
+- 248✅
 - 249
 - 250
 - 253
@@ -280,7 +280,7 @@
 - 413
 - 420
 - 422
-- 424🟨
+- 424🟨✅
 - 433
 - 442🟨
 - 469
@@ -326,12 +326,12 @@
 ## - dodać komunikaty zapowiedzi przystanków:
 - Agatowa
 - Agencja Kraków Wschód
-- AGH / UR
-- Akacjowa
+- AGH / UR✅
+- Akacjowa✅
 - AKF / PK
 - Albatrosów
 - Aleja Przyjaźni
-- Aleja Róż
+- Aleja Róż✅
 - Aleja Waszyngtona
 - Aleksandrowice Centrum
 - Aleksandrowice Osiedle
@@ -340,33 +340,33 @@
 - Architektów
 - Archiwum UMK
 - Arctowskiego
-- Arka
-- Armii Krajowej
-- Azory
+- Arka✅
+- Armii Krajowej✅
+- Azory✅
 - Baba Jaga
 - Babińskiego
 - Baczyńskiego
 - Bagienna
-- Bagry
-- Balice Autostrada
-- Balice Grzybów
+- Bagry✅
+- Balice Autostrada✅
+- Balice Grzybów✅
 - Balice Instytut Zootechniki
 - Balice Krakowska
-- Balice Leśna
+- Balice Leśna✅
 - Balice Medweckiego
 - Balice Na Lotnisko
 - Balice Olszanica Bory
-- Balice Remiza
-- Balice Szkoła
+- Balice Remiza✅
+- Balice Szkoła✅
 - Balice Winna Góra
 - Bałuckiego
-- Banacha
-- Bardosa
+- Banacha✅
+- Bardosa✅
 - Bartnicza
 - Barwinkowa
 - Barwna
 - Barycz
-- Batalionu "Skała" AK
+- Batalionu "Skała" AK✅
 - Batowice Dłubnia
 - Batowice Kapliczka
 - Batowice Spławy
@@ -385,8 +385,8 @@
 - Będkowice Pętla
 - Będkowice Rynek
 - Białe Wzgórze
-- Białoprądnicka
-- Białucha
+- Białoprądnicka✅
+- Białucha✅
 - Biały Kościół Dolina Kluczwody
 - Biały Kościół Murownia
 - Biały Kościół Murownia Pętla
@@ -395,14 +395,14 @@
 - Bibice Mokra
 - Bibice Na Czekaj
 - Bibice Rynek
-- Bielany
+- ~Bielany✅
 - Bielany Klasztor
 - Bielany Obwodnica
-- Bielany Szkoła
+- Bielany Szkoła✅
 - Bielańska
 - Bielańskie Skały
-- Bieńczycka
-- Bieżanowska
+- Bieńczycka✅
+- Bieżanowska✅
 - Bieżanów Drożdżownia SKA
 - Bieżanów Granica Miasta
 - Bieżanów Kaim
@@ -410,8 +410,8 @@
 - Bieżanów Potrzask
 - Bieżanów Szkoła
 - Bieżanów Trafo
-- Biprostal
-- Biskupa Prandoty
+- Biprostal✅
+- Biskupa Prandoty✅
 - Biskupice Rymarówka
 - Biskupice Szczygłów
 - Biskupińska
@@ -420,7 +420,7 @@
 - Błonia Kościelnickie
 - Bobrzeckiej
 - Bochenka
-- Bociana
+- Bociana✅
 - Bodzowska
 - Bodzów
 - Bogucianka
@@ -431,33 +431,33 @@
 - Bolechowice Zielona
 - Bolechowice Zielona Mała
 - Boleń Pętla
-- Bolesława Śmiałego
-- Bonarka
+- Bolesława Śmiałego✅
+- Bonarka✅
 - Bonarka SKA
-- Bora-Komorowskiego
-- Borek Fałęcki
+- Bora-Komorowskiego✅
+- Borek Fałęcki✅
 - Borek Szlachecki
 - Borek Szlachecki Kościół
 - Borkowska
-- Borsucza
+- Borsucza✅
 - Bosaków
 - Bosutów Kościuszki
 - Bosutów Krakowska
 - Botewa
-- Brama nr 4
-- Brama nr 5
+- Brama nr 4✅
+- Brama nr 5✅
 - Brama nr 8
 - Branice
 - Branice Ośrodek Zdrowia
 - Branice Szkoła
-- Bratysławska
-- Brodowicza
+- Bratysławska✅
+- Brodowicza✅
 - Brogi
-- Bronowice
-- Bronowice Małe
-- Bronowice SKA
-- Bronowice Wielkie
-- Brożka
+- Bronowice✅
+- Bronowice Małe✅
+- Bronowice SKA✅
+- Bronowice Wielkie✅
+- Brożka✅
 - Brzegi Dom Kultury
 - Brzegi Granica
 - Brzegi Grobla
@@ -485,29 +485,29 @@
 - Brücknera
 - Budzyń Plaża Główna
 - Budzyń Zalew na Piaskach
-- Bujaka
+- Bujaka✅
 - Buków Klin
 - Buków Pętla
 - Buków Szkoła
-- Bulwarowa
+- Bulwarowa✅
 - Bulwarowa Ogródki Działkowe
 - Bunscha
-- Burów Balica
-- Burów Centrum
+- Burów Balica✅
+- Burów Centrum✅
 - Bystronia
 - Cechowa
 - Cedyńska
-- Centralna
+- Centralna✅
 - Centrum JP II
-- Chabrowa
+- Chabrowa✅
 - Chałubińskiego
 - Chałupki
 - Chałupki Górne
-- Chełm
-- Chełmońskiego Osiedle
-- Chełmońskiego Pętla
-- Chełmska
-- Chmieleniec
+- Chełm✅
+- Chełmońskiego Osiedle✅
+- Chełmońskiego Pętla✅
+- Chełmska✅
+- Chmieleniec✅
 - Chobot Kapliczka
 - Chobot Leśniczówka
 - Cholerzyn Chałupki
@@ -516,7 +516,7 @@
 - Cholerzyn Skrzyżowanie
 - Cholerzyn Skwer
 - Cholerzyn Zagórze
-- Chopina
+- Chopina✅
 - Chorowice Pętla
 - Chorzowska
 - Chrosna Kapliczka
@@ -528,36 +528,36 @@
 - Cianowice Marianów
 - Cianowice Poręba
 - Cianowice Szczodrkowicka
-- Cichy Kącik
+- Cichy Kącik✅
 - Ciekowiec
-- Cienista
-- Clepardia
+- Cienista✅
+- Clepardia✅
 - Cło
-- Cmentarz Bielany
+- Cmentarz Bielany✅
 - Cmentarz Bieżanów
 - Cmentarz Borek Fałęcki
-- Cmentarz Bronowice
+- Cmentarz Bronowice✅
 - Cmentarz Grębałów
 - Cmentarz Grębałów Południe
-- Cmentarz Mydlniki
+- Cmentarz Mydlniki✅
 - Cmentarz Olszanica
 - Cmentarz Pleszów
-- Cmentarz Podgórski
+- Cmentarz Podgórski✅
 - Cmentarz Prądnik Czerwony
 - Cmentarz Prądnik Czerwony Wschód
 - Cmentarz Prokocim
-- Cmentarz Rakowicki
-- Cmentarz Rakowicki Zachód
+- Cmentarz Rakowicki✅
+- Cmentarz Rakowicki Zachód✅
 - Cmentarz Ruszcza
 - Cmentarz Wróblowice
 - Cogiteon
-- Conrada
+- Conrada✅
 - Cracovia Błonia
 - Cracovia Stadion
-- Cystersów
+- Cystersów✅
 - Czajowice Władysława Łokietka
 - Czarnochowice Kokotowska
-- Czarnowiejska
+- Czarnowiejska✅
 - Czeczeńska
 - Czernichów Bór
 - Czernichów Ratanice
@@ -568,7 +568,7 @@
 - Czernichów Zakamycze
 - Czerwiakowskiego
 - Czerwieńskiego
-- Czerwone Maki P+R
+- Czerwone Maki P+R✅
 - Czulice Kościół
 - Czulice Przymiarki
 - Czułów Granica
@@ -576,24 +576,24 @@
 - Czułów Szkoła
 - Czułówek Kapliczka
 - Czułówek Skrzyżowanie
-- Czyżyny
-- Czyżyny Dworzec
-- Ćwiklińskiej
+- Czyżyny✅
+- Czyżyny Dworzec✅
+- Ćwiklińskiej✅
 - Danalówka
-- Darwina
-- Dauna
-- Dąbie
+- Darwina✅
+- Dauna✅
+- Dąbie✅
 - Dąbrowa
 - Dąbrowa Szlachecka Figurka
 - Dąbrowa Szlachecka Krzemiennik
 - Dąbrowa Szlachecka Krzyż
 - Dąbrowskiej
 - Deszczowa
-- DH Wanda
-- Dobrego Pasterza
-- Dojazdów Działki
+- DH Wanda✅
+- Dobrego Pasterza✅
+- Dojazdów Działki✅
 - Dojazdów Na Górce
-- Dojazdów PKS
+- Dojazdów PKS✅
 - Dojazdów Plac św. Stanisława
 - Dojazdów Przedszkole
 - Domagały
@@ -602,14 +602,14 @@
 - Drożdżowa
 - Drożyska
 - Drużbackiej
-- Dunikowskiego
+- Dunikowskiego✅
 - Duża Góra
-- Dworcowa
-- Dworzec Główny Tunel
+- Dworcowa✅
+- Dworzec Główny Tunel✅
 - Dworzec Główny Wschód
-- Dworzec Główny Zachód
-- Dworzec Płaszów Estakada
-- Dworzec Towarowy
+- Dworzec Główny Zachód✅
+- Dworzec Płaszów Estakada✅
+- Dworzec Towarowy✅
 - Dwór Czeczów
 - Dymarek
 - Dziekanowice Batowice SKA
@@ -617,22 +617,22 @@
 - Dziekanowice Kapliczka
 - Dziekanowicka
 - Elektrociepłownia
-- Elektromontaż
-- Fabryczna
+- Elektromontaż✅
+- Fabryczna✅
 - Facimiech Pod Kolebą
 - Fatimska
-- Filharmonia
+- Filharmonia✅
 - Fiszera
 - Folwarczna
-- Fort Bodzów
-- Fort Mogiła
+- Fort Bodzów✅
+- Fort Mogiła✅
 - Fort Skotniki
 - Fort Swoszowice
 - Fort Winnica
 - Forteczna
 - Fredry
 - Friedleina
-- Gaik
+- Gaik✅
 - Gaj Kwiatowa
 - Gaj Rudawa
 - Gaj Szkoła
@@ -653,18 +653,18 @@
 - Giebułtów Świętego Idziego
 - Giebułtów Zbiornik
 - Giebułtów Zielone Wzgórze
-- Giedroycia
+- Giedroycia✅
 - Giedroycia ZTPO
-- Giełda Balicka
+- Giełda Balicka✅
 - Glinnik
 - Glogera
 - Glogera Granica Miasta
 - Głęboka Kolonia
 - Głęboka Staw
 - Głęboka Zakręt
-- Głowackiego
+- Głowackiego✅
 - Gnieźnieńska
-- Godlewskiego
+- Godlewskiego✅
 - Golkowice Granica
 - Golkowice Kościół
 - Golkowice Pętla
@@ -672,7 +672,7 @@
 - Gołuchowice
 - Gołuchowice Jurczyce
 - Gołuchowice Sklep
-- Gospodarska
+- Gospodarska✅
 - Goszcza Cmentarz
 - Goszcza Dworek
 - Goszcza Kościół
@@ -680,10 +680,10 @@
 - Goszyce Remiza
 - Gotkowice Wieś
 - Góra Borkowska
-- Górka Narodowa P+R
+- Górka Narodowa P+R✅
 - Górka Pychowicka
 - Górna Wieś Pętla
-- Górnickiego
+- Górnickiego✅
 - Grabie Dom Kultury
 - Grabie Kościół
 - Grabie Kuźnia
@@ -692,20 +692,20 @@
 - Grabie Szczurów
 - Grabowa
 - Grabówki Pętla
-- Grębałów
+- Grębałów✅
 - Grębynice Mogiełki
 - Grębynice Parkowa
 - Grębynice Remiza
-- Grodzki Urząd Pracy
-- Gromadzka
-- Grota-Roweckiego
+- Grodzki Urząd Pracy✅
+- Gromadzka✅
+- Grota-Roweckiego✅
 - Grzegorza z Sanoka
 - Gwarecka
 - Habina
 - Hala Sportowa Piaski Wielkie
-- Hala Targowa
+- Hala Targowa✅
 - Hallera
-- Halszki
+- Halszki✅
 - Hektary
 - Husarska
 - Igołomska Zakłady
@@ -714,13 +714,13 @@
 - Isep
 - Iwanowice Dworskie Kotryska
 - Iwanowice Dworskie Pętla
-- Jabłonna
+- Jabłonna✅
 - Jana Kazimierza
 - Janasówka
 - Janówka
 - Januszowice Młyńska
 - Januszowice Plac Zabaw
-- Jarzębiny
+- Jarzębiny✅
 - Jasieńskiego
 - Jasnogórska
 - Jaśkowice PKP
@@ -734,8 +734,8 @@
 - Jeziorzany Pętla
 - Jeziorzany Rondo
 - Jędrzejczyka
-- Jordanowska
-- Jubilat
+- Jordanowska✅
+- Jubilat✅
 - Jubileuszowa
 - Judyma
 - Judyma Szkoła
@@ -743,15 +743,15 @@
 - Jurczyce Dom Ludowy
 - Jurczyce Podole
 - Jurczyce Szkoła
-- Kabel
+- Kabel✅
 - Kamień Remiza
 - Kamień Szkoła
-- Kamieńskiego
-- Kamieńskiego Wiadukt
-- Kampus UJ
+- Kamieńskiego✅
+- Kamieńskiego Wiadukt✅
+- Kampus UJ✅
 - Kantorowice
 - Kantorowicka
-- Kapelanka
+- Kapelanka✅
 - Karniowice Górki
 - Karniowice Pętla
 - Karniów Szkoła
@@ -765,9 +765,9 @@
 - Kaszów Tyrałówka
 - Kaszów Wielka Droga
 - Kaszów Wyźrał
-- Kasztanowa
-- Katowicka
-- Kawiory
+- Kasztanowa✅
+- Katowicka✅
+- Kawiory✅
 - Kąkolowa
 - Kąpielowa
 - Kenara
@@ -775,35 +775,35 @@
 - Kępa Grabska
 - Kępna
 - Klasztor Cystersów
-- Klasztorna
-- Kleeberga
-- Kleszczów Centrum
-- Kleszczów Pod Lipką
-- Klimeckiego
+- Klasztorna✅
+- Kleeberga✅
+- Kleszczów Centrum✅
+- Kleszczów Pod Lipką✅
+- Klimeckiego✅
 - Kliny Poranne
 - Kliny Zacisze
 - Kłokoczyn Machaczki
 - Kłokoczyn Szkoła
 - Kłuszyńska
 - Kobierzyn
-- Kobierzyńska
+- Kobierzyńska✅
 - Kobylany Dworska
 - Kobylany Kwiatowa
 - Kobylany Remiza
-- Kochanów Centrum
+- Kochanów Centrum✅
 - Kochanów Sowiarka
 - Kocmyrzów Biblioteka
 - Kocmyrzów Krzyżówka
 - Kocmyrzów Rondo
 - Kocmyrzów Sodfiny
-- Kocmyrzów-Luborzyca Urząd Gminy
+- Kocmyrzów-Luborzyca Urząd Gminy✅
 - Kokotów I
 - Kokotów II
 - Kokotów SKA
-- Koksochemia
-- Kolna
+- Koksochemia✅
+- Kolna✅
 - Kolna Kapliczka
-- Kombinat
+- Kombinat✅
 - Komorowskiego
 - Komuny Paryskiej
 - Konary Królowej Polski
@@ -811,8 +811,8 @@
 - Konary Pod Sosenką
 - Konary Sęk
 - Konopczyńskiego
-- Konopnickiej
-- Kopalina
+- Konopnickiej✅
+- Kopalina✅
 - Kopanka Druga
 - Kopanka Kapliczka
 - Kopanka Kościół
@@ -820,21 +820,21 @@
 - Kopanka Pętla
 - Kopanka Szkoła
 - Kopiec Kościuszki
-- Kopiec Wandy
+- Kopiec Wandy✅
 - Korepty
-- Korona
+- Korona✅
 - Korzkiew Botoja
 - Korzkiew Zamek
-- Kosmowskiej
+- Kosmowskiej✅
 - Kosocice
 - Kosocicka
 - Kostrze
-- Kostrze Kapliczka
+- Kostrze Kapliczka✅
 - Kostrze OSP
-- Kostrze Szkoła
+- Kostrze Szkoła✅
 - Koszykarska
 - Kościelniki
-- Kościuszkowców
+- Kościuszkowców✅
 - Kozienicka
 - Kraków Airport
 - Krasieniec Stary Kopalina
@@ -845,9 +845,9 @@
 - Krasieniec Zakupny Remiza
 - Krasnowolskiego
 - Krokusowa
-- Krowoderskich Zuchów
-- Krowodrza Górka P+R
-- Krowodrza Urzędy Skarbowe
+- Krowoderskich Zuchów✅
+- Krowodrza Górka P+R✅
+- Krowodrza Urzędy Skarbowe✅
 - Kruszwicka
 - Kryspinów Rondo
 - Kryspinów Sanka
@@ -869,18 +869,18 @@
 - Krzysztoforzyce Sklep
 - Ks. Luzara
 - Ks. Łaczka
-- Ks. Meiera
+- Ks. Meiera✅
 - Ks.Targosza
 - Kujawy
-- Kuklińskiego
+- Kuklińskiego✅
 - Kulerzów
 - Kulerzów Wąwóz
 - Kupały
-- Kurdwanów P+R
+- Kurdwanów P+R✅
 - Kurdwanów Szkoła
 - Kurzei
-- Kuźnicy Kołłątajowskiej
-- Lajkonika
+- Kuźnicy Kołłątajowskiej✅
+- Lajkonika✅
 - Landaua
 - Las Borkowski
 - Lasek Łęgowski
@@ -901,29 +901,29 @@
 - Libertów Szkoła
 - Libertów Świetlista
 - Libertów Zgodna
-- Limanowskiego
-- Lindego
-- Lipińskiego
+- Limanowskiego✅
+- Lindego✅
+- Lipińskiego✅
 - Lipowskiego
-- Lipska
+- Lipska✅
 - Liszki Mazurowa
 - Liszki Rondo
 - Liszki Tyniecka
 - Liszki Urząd Gminy
 - Liszki Wołowska Droga
-- Lubicz
+- Lubicz✅
 - Lublańska
 - Lubocza Bugaj
 - Lubocza Przychodnia
 - Lubocza SKA
 - Lubocza Szkoła
 - Lubocza Trafo
-- Luborzyca
+- Luborzyca✅
 - Luborzyca Piotrowiec
 - Luborzyca Przy Źródle
-- Luborzyca Szkoła
+- Luborzyca Szkoła✅
 - Lubostroń
-- Ludwinów
+- Ludwinów✅
 - Lusina Dobrzyczany
 - Lusina Dolna
 - Lusina Dwór
@@ -937,13 +937,13 @@
 - Lusina Szkoła
 - Lusina Zagrody
 - Lusina Zielona
-- Łagiewniki
-- Łagiewniki SKA
-- Łagiewniki ZUS
-- Łanowa
+- Łagiewniki✅
+- Łagiewniki SKA✅
+- Łagiewniki ZUS✅
+- Łanowa✅
 - Łempickiego
 - Łęczycka
-- Łobzów SKA
+- Łobzów SKA✅
 - Łososkowice Remiza
 - Łososkowice Szkoła
 - Łuczanowice
@@ -954,7 +954,7 @@
 - Łuczyce Zjawienie
 - Łuczyce Zwierzyniec
 - Łuczyńskiego
-- Łukasiewicza
+- Łukasiewicza✅
 - Łutnia
 - Łużycka
 - Maciejowice Góra
@@ -963,20 +963,20 @@
 - Mackiewicza
 - Madejówka
 - Magazynowa
-- Majora
+- Majora✅
 - Makowa
-- Makowskiego
+- Makowskiego✅
 - Makuszyńskiego
 - Malborska
 - Malborska Szkoła
 - Malczewskiego
 - Malinowskiego
 - Mała Wieś Skrzyżowanie
-- Mały Płaszów P+R
+- Mały Płaszów P+R✅
 - Marchołta
-- Marszowice
-- Marszowice Centrum
-- Marszowice Góry
+- Marszowice✅
+- Marszowice Centrum✅
+- Marszowice Góry✅
 - Marycjusza
 - Masłomiąca Długa
 - Masłomiąca Koźlica
@@ -984,13 +984,13 @@
 - Maszyce Remiza
 - Maszyce Sadzawka
 - Maszyce Skrzyżowanie
-- Mazowiecka
+- Mazowiecka✅
 - Medweckiego
-- Mehoffera
-- Meissnera
-- Meksyk
+- Mehoffera✅
+- Meissnera✅
+- Meksyk✅
 - Merkuriusza Polskiego
-- Miasteczko Studenckie AGH
+- Miasteczko Studenckie AGH✅
 - Michałowice Banasiówka
 - Michałowice Brzozowa
 - Michałowice Centrum
@@ -1009,16 +1009,16 @@
 - Michałowice P+R
 - Michałowice Ujęcie Wody
 - Michałowice Warszawka
-- Miechowity
+- Miechowity✅
 - Miejskie Centrum Opieki
 - Millana
-- Miodowa
-- Mistrzejowice
-- Miśnieńska
+- Miodowa✅
+- Mistrzejowice✅
+- Miśnieńska✅
 - Młodzieży
 - Młynka Kalwaryjska
 - Młynka Pętla
-- Młynówka SKA
+- Młynówka SKA✅
 - Mników Granica
 - Mników Pańska Góra
 - Mników Remiza
@@ -1035,8 +1035,8 @@
 - Modlnica Szkoła
 - Modlniczka Centrum Logistyczne
 - Modlniczka Dworska
-- Modlniczka Leroy Merlin
-- Modlniczka Mała
+- Modlniczka Leroy Merlin✅
+- Modlniczka Mała✅
 - Modlniczka Poligon
 - Modlniczka Trzcie
 - Modlniczka Willowa
@@ -1052,20 +1052,20 @@
 - Morawica Mostek
 - Morawica Rudki
 - Morawica Szkoła
-- Morcinka
+- Morcinka✅
 - Most Kotlarski
-- Motyla
+- Motyla✅
 - Mrozowa
 - Muzeum Armii Krajowej
 - Muzeum Fotografii
-- Muzeum Lotnictwa Polskiego
-- Muzeum Narodowe
-- Mydlniki Granica Miasta
-- Mydlniki Wapiennik P+R
+- Muzeum Lotnictwa Polskiego✅
+- Muzeum Narodowe✅
+- Mydlniki Granica Miasta✅
+- Mydlniki Wapiennik P+R✅
 - Myślenicka
 - Myśliwska
-- Myśliwska Szkoła
-- Na Budzyniu
+- Myśliwska Szkoła✅
+- Na Budzyniu✅
 - Na Krępaku
 - Na Załęczu
 - Nad Dłubnią
@@ -1075,12 +1075,12 @@
 - Narama Graniczna Sklep
 - Narama Księża
 - Narama Remiza
-- Narzymskiego
+- Narzymskiego✅
 - Natansona
 - Niebieska Autostrada
 - Niebyła
-- Niedźwiedź Felix
-- Niedźwiedź PKP
+- Niedźwiedź Felix✅
+- Niedźwiedź PKP✅
 - Nielepice Pętla
 - Nielepice Stadnina
 - Niepołomice Batorego
@@ -1100,20 +1100,20 @@
 - Niepołomice Słoneczna
 - Niepołomice Wielicka
 - Niepołomice Wodna
-- Norymberska
+- Norymberska✅
 - Nowa Wieś Szlachecka Jesionka
 - Nowa Wieś Szlachecka Kapliczka
 - Nowa Wieś Szlachecka Kościół
 - Nowa Wieś Szlachecka Pętla
 - Nowa Wieś Szlachecka Sklep
 - Nowolipki
-- Nowosądecka
-- Nowy Bieżanów P+R
+- Nowosądecka✅
+- Nowy Bieżanów P+R✅
 - Nowy Bieżanów Południe
-- Nowy Kleparz
-- Nowy Prokocim
+- Nowy Kleparz✅
+- Nowy Prokocim✅
 - Nullo
-- Obserwatorium
+- Obserwatorium✅
 - Ochmanów Oknoplast
 - Ochodza Dom Ludowy
 - Ochodza Dwór
@@ -1124,84 +1124,84 @@
 - Ochojno Remiza
 - Ochojno Skrzyżowanie
 - Oczyszczalnia Ścieków "Kujawy"
-- Odkrywców
+- Odkrywców✅
 - Odmętowa
-- Ofiar Dąbia
-- Ogród Doświadczeń
-- Ojcowska
-- Ojcowska Dworek
-- Ojcowska Wągroda
-- Oleandry
-- Olsza II
+- Ofiar Dąbia✅
+- Ogród Doświadczeń✅
+- Ojcowska✅
+- Ojcowska Dworek✅
+- Ojcowska Wągroda✅
+- Oleandry✅
+- Olsza II✅
 - Olszanica Bory
 - Olszanica Kapliczka
 - Olszanica Ogródki Działkowe
 - Opatkowice
 - Opatkowice Wiadukt
 - Opatkowice Zadworze
-- Opolska Estakada
-- Opolska Kładka
+- Opolska Estakada✅
+- Opolska Kładka✅
 - Orkana
 - Orłowskiego
 - Orszy-Broniewskiego
-- Orzeszkowej
-- Os. Akademickie PK
+- Orzeszkowej✅
+- Os. Akademickie PK✅
 - Os. Dywizjonu 303
-- Os. Gotyk
+- Os. Gotyk✅
 - Os. Górali
-- Os. Jagiellońskie
+- Os. Jagiellońskie✅
 - Os. Kalinowe
 - Os. Kliny
-- Os. Kolorowe
+- Os. Kolorowe✅
 - Os. Kościuszkowskie
-- Os. Kurdwanów
+- Os. Kurdwanów✅
 - Os. Marszowiec
 - Os. Mistrzejowice Nowe
-- Os. Na Lotnisku
-- Os. Na Skarpie
+- Os. Na Lotnisku✅
+- Os. Na Skarpie✅
 - Os. Na Stoku
 - Os. Na Stoku Szkoła
 - Os. Oświecenia
-- Os. Piastów
+- Os. Piastów✅
 - Os. Pod Fortem
-- Os. Podwawelskie
-- Os. Przewóz
-- Os. Robotnicze
-- Os. Strusia
+- Os. Podwawelskie✅
+- Os. Przewóz✅
+- Os. Robotnicze✅
+- Os. Strusia✅
 - Os. Wandy
 - Os. Willowe
-- Os. Zgody
+- Os. Zgody✅
 - Os. Zielone
-- Os. Złotego Wieku
+- Os. Złotego Wieku✅
 - Ostafina
-- Owcy-Orwicza
+- Owcy-Orwicza✅
 - Owczary Długa
 - Owczary Gajowa
 - Owczary Górna
 - Owczary Pętla
 - Owczary Spacerowa
-- Pachońskiego P+R
+- Pachońskiego P+R✅
 - Panieńskich Skał
-- Papierni Prądnickich
-- Park "Skały Twardowskiego"
-- Park Decjusza
-- Park Jordana
+- Papierni Prądnickich✅
+- Park "Skały Twardowskiego"✅
+- Park Decjusza✅
+- Park Jordana✅
 - Park Wodny
 - Park Zdrojowy
-- Pasternik
+- Pasternik✅
 - PCK
 - Petrażyckiego
 - Petrażyckiego Osiedle
 - Petőfiego
-- Pędzichów
+- Pędzichów✅
 - Pękowice Fort
 - Pękowice Ojcowska
 - Pękowicka
-- Piaski Nowe
+- Piaski Nowe✅
 - Piaski Wielkie
 - Piaskowa
-- Piasta Kołodzieja
-- Piastowska
+- Piasta Kołodzieja✅
+- Piastowska✅
 - Piaszczysta
 - Piekary Borki
 - Piekary Centrum
@@ -1215,7 +1215,7 @@
 - Pielgrzymowice Granica
 - Pielgrzymowice Pętla
 - Pielgrzymowice Wierzbowa
-- Pilotów
+- Pilotów✅
 - Piltza
 - Pisary Akacjowa
 - Pisary Dąbrówki
@@ -1223,23 +1223,23 @@
 - Pisary Kasztanowa
 - Pisary Mleczna
 - Pisary Spacerowa
-- Plac Bohaterów Getta
-- Plac Centralny im. R.Reagana
-- Plac Inwalidów
+- Plac Bohaterów Getta✅
+- Plac Centralny im. R.Reagana✅
+- Plac Inwalidów✅
 - Plac Na Stawach
-- Plac Wolnica
-- Plac Wszystkich Świętych
+- Plac Wolnica✅
+- Plac Wszystkich Świętych✅
 - Plastusia
-- Pleszowska
-- Pleszów
-- Płaszowska
-- Płaszów Szkoła
+- Pleszowska✅
+- Pleszów✅
+- Płaszowska✅
+- Płaszów Szkoła✅
 - Płk. Dąbka
-- Poczta Główna
+- Poczta Główna✅
 - Pod Lipą
 - Podgaje
 - Podgórki Tynieckie
-- Podgórze SKA
+- Podgórze SKA✅
 - Podłęże Balachówka
 - Podłęże Centrum
 - Podłęże Przedszkole
@@ -1251,34 +1251,34 @@
 - Polana Żywiecka
 - Polanka Hallera Centrum
 - Polanka Hallera Dwór
-- Polanowice Boisko
-- Polanowice Kolonia
-- Politechnika
+- Polanowice Boisko✅
+- Polanowice Kolonia✅
+- Politechnika✅
 - Połomskiego
 - Poniedziałkowy Dół
 - Popielidów
 - Poronińska
-- Powstańców
-- Powstańców Garaże
+- Powstańców✅
+- Powstańców Garaże✅
 - Powstańców Magazyny
 - Powstańców Wiadukt
-- Poziomkowa
+- Poziomkowa✅
 - Półłanki
-- Praska
+- Praska✅
 - Prawocheńskiego
 - Prądnik Biały
-- Prądnik Biały Wschód
+- Prądnik Biały Wschód✅
 - Prądnik Biały Zachód
-- Prądnik Czerwony
-- Prokocim
+- Prądnik Czerwony✅
+- Prokocim✅
 - Prokocim Rynek
-- Prokocim Szpital
+- Prokocim Szpital✅
 - Prokocim UJ
 - Promienistych
 - Prosta
 - Prusy Kościół
 - Prusy Rondo
-- Prusy Szkoła
+- Prusy Szkoła✅
 - Pruszyńskiego
 - Przebieczany Gdowska
 - Przeginia Dom Ludowy
@@ -1300,21 +1300,21 @@
 - Przybysławice Centrum
 - Przybysławice Na Lipowiec
 - Przybysławice Na Stoczki
-- Przybyszewskiego
+- Przybyszewskiego✅
 - Przylasek Rusiecki
 - Przylasek Rusiecki Kąpielisko
 - Przylasek Rusiecki Północ
 - Przylasek Wyciąski
 - Pszenna
-- Pszona
+- Pszona✅
 - Puszkarska
-- Pychowice
+- Pychowice✅
 - Pylna
 - Pytlasińskiego
 - Raciborowice Granica
 - Raciborowice Wawelska
 - Raczkiewicza
-- Radio Kraków
+- Radio Kraków✅
 - Radwanowice Krzeszowicka
 - Radwanowice Pętla
 - Radzikowskiego
@@ -1336,7 +1336,7 @@
 - Radziszów Zadworze
 - Radziszów Zawodzie
 - Rajsko
-- Ratajów Skrzyżowanie
+- Ratajów Skrzyżowanie✅
 - Rawałowice Góra
 - Rawałowice Kapliczka
 - Rawałowice Skrzyżowanie
@@ -1352,24 +1352,24 @@
 - Reduta
 - Reja
 - Resztówka
-- Reymana
-- Rodzinna
-- Rondo 308. Dywizjonu
-- Rondo Barei
-- Rondo Czyżyńskie
-- Rondo Grunwaldzkie
-- Rondo Grzegórzeckie
-- Rondo Hipokratesa
-- Rondo Kocmyrzowskie im. Ks. Gorzelanego
-- Rondo Matecznego
-- Rondo Młyńskie
-- Rondo Mogilskie
-- Rondo Mogilskie Opera
-- Rondo Ofiar Katynia
-- Rondo Piastowskie
+- Reymana✅
+- Rodzinna✅
+- Rondo 308. Dywizjonu✅
+- Rondo Barei✅
+- Rondo Czyżyńskie✅
+- Rondo Grunwaldzkie✅
+- Rondo Grzegórzeckie✅
+- Rondo Hipokratesa✅
+- Rondo Kocmyrzowskie im. Ks. Gorzelanego✅
+- Rondo Matecznego✅
+- Rondo Młyńskie✅
+- Rondo Mogilskie✅
+- Rondo Mogilskie Opera✅
+- Rondo Ofiar Katynia✅
+- Rondo Piastowskie✅
 - Rostworowskiego
-- Różyckiego
-- Ruczaj
+- Różyckiego✅
+- Ruczaj✅
 - Rudawa 21 Lipca
 - Rudawa Granica
 - Rudawa Młyn
@@ -1398,19 +1398,19 @@
 - Rybna Ośrodek Zdrowia
 - Rybna Pawilon
 - Rybna Szkoła
-- Rynek Dębnicki
+- Rynek Dębnicki✅
 - Rynek Fałęcki
-- Rząska Autostrada
-- Rząska Cmentarz
-- Rząska Jednostka Wojskowa
-- Rząska Podkamycze
-- Rząska Szkoła
-- Rząska UR
-- Rzebika
-- Rzemieślnicza
+- Rząska Autostrada✅
+- Rząska Cmentarz✅
+- Rząska Jednostka Wojskowa✅
+- Rząska Podkamycze✅
+- Rząska Szkoła✅
+- Rząska UR✅
+- Rzebika✅
+- Rzemieślnicza✅
 - Rzepakowa
 - Rzepakowa Świetlica
-- Rzepichy
+- Rzepichy✅
 - Rzeszotary Dworska
 - Rzeszotary Panciawa
 - Rzeszotary Panciawa Pętla
@@ -1427,20 +1427,20 @@
 - Rzozów Skotnica
 - Rzozów Szkoła
 - Rzozów Zagonnie
-- Rżąka
+- Rżąka✅
 - Sadowie Wiadukt
-- Salwator
-- Sanktuarium Bożego Miłosierdzia
+- Salwator✅
+- Sanktuarium Bożego Miłosierdzia✅
 - Sapalskiego
-- Saska
+- Saska✅
 - Sawiczewskich
 - Sidzina
 - Sieborowice
 - Siejówka
-- Sielanka
+- Sielanka✅
 - Sieroszewskiego
 - Siewna
-- Siewna Wiadukt
+- Siewna Wiadukt✅
 - Sikorki
 - Siwka
 - Skalna
@@ -1497,14 +1497,14 @@
 - Skotniki
 - Skotniki Kościół
 - Skotniki Szkoła
-- Skrajna
+- Skrajna✅
 - Skrzeszowice OSP Boisko
-- Sławka
-- Słomiana
-- Słomniki Kościuszki
-- Słomniki Osiedle
-- Słomniki Rynek
-- Słomniki Zagłoby
+- Sławka✅
+- Słomiana✅
+- Słomniki Kościuszki✅
+- Słomniki Osiedle✅
+- Słomniki Rynek✅
+- Słomniki Zagłoby✅
 - Słona Woda
 - Słoneckiego
 - Smardzowice Kościelna
@@ -1512,39 +1512,39 @@
 - Smardzowice Remiza
 - Smardzowice Wołówka
 - Smoleńskiego
-- Smolki
+- Smolki✅
 - Soboniowice
-- Solvay
+- Solvay✅
 - Sołtysowska
 - Sołtysowska Osiedle
 - Sołtysowska Zakłady
-- Sosabowskiego
-- Spadochroniarzy
+- Sosabowskiego✅
+- Spadochroniarzy✅
 - Spławy
 - Stachiewicza
 - Staniątki Wiadukt
 - Stara Wola
 - Stare Wiślisko
-- Starego Wiarusa
-- Starowiślna
-- Stary Kleparz
-- Stawowa
-- Stefana Batorego
-- Stella-Sawickiego
+- Starego Wiarusa✅
+- Starowiślna✅
+- Stary Kleparz✅
+- Stawowa✅
+- Stefana Batorego✅
+- Stella-Sawickiego✅
 - Stoczniowców
-- Stojałowskiego
-- Stradom
+- Stojałowskiego✅
+- Stradom✅
 - Stręcka
-- Struga
-- Strycharska
+- Struga✅
+- Strycharska✅
 - Strzelców
-- Strzelnica
+- Strzelnica✅
 - Sucha
 - Sucharskiego
-- Suche Stawy
+- Suche Stawy✅
 - Suchy Jar
-- Sudolska
-- Sulechów
+- Sudolska✅
+- Sulechów✅
 - Sułkowskiego
 - Sułków Zbój
 - Surzyckiego
@@ -1553,23 +1553,23 @@
 - Swoszowice SKA
 - Swoszowice Szkoła
 - Szafrańska
-- Szczecińska
+- Szczecińska✅
 - Szczegów
-- Szczyglice Autostrada
-- Szczyglice Błonie
-- Szczyglice Dom Kultury
+- Szczyglice Autostrada✅
+- Szczyglice Błonie✅
+- Szczyglice Dom Kultury✅
 - Szczyglice Most
 - Szczyglice Skała Kmity
-- Szczyglice Skrzyżowanie
+- Szczyglice Skrzyżowanie✅
 - Szlifierska
 - Szparagowa
 - Szpital Jana Pawła II
-- Szpital Narutowicza
+- Szpital Narutowicza✅
 - Szpital Okulistyczny
 - Szpital Rydygiera
 - Szpital Uniwersytecki / Instytut Pediatrii
 - Szpital Żeromskiego
-- Szwedzka
+- Szwedzka✅
 - Szyce Spacerowa
 - Szyce Wesoła
 - Szymańskiego
@@ -1580,8 +1580,8 @@
 - Śliwiaka
 - Śliwiaka Zakłady
 - Ślósarczyka
-- św. Gertrudy
-- św. Wawrzyńca
+- św. Gertrudy✅
+- św. Wawrzyńca✅
 - Świątniki Górne Bielowicza Szkoła
 - Świątniki Górne Buk
 - Świątniki Górne Centrum
@@ -1592,23 +1592,23 @@
 - Świdzińskiego
 - Taklińskiego
 - TAURON Arena Kraków
-- TAURON Arena Kraków al. Pokoju
-- TAURON Arena Kraków Wieczysta
-- Teatr Bagatela
-- Teatr Ludowy
-- Teatr Słowackiego
-- Teatr Variété
-- Teligi
+- TAURON Arena Kraków al. Pokoju✅
+- TAURON Arena Kraków Wieczysta✅
+- Teatr Bagatela✅
+- Teatr Ludowy✅
+- Teatr Słowackiego✅
+- Teatr Variété✅
+- Teligi✅
 - Tomaszkowice Urząd Gminy Biskupice
 - Tomaszowice Dwór
 - Tomaszowice Kolberga
 - Tomaszowice Spacerowa
 - Tomaszowice Zacisze
-- Tondosa
-- Tonie
+- Tondosa✅
+- Tonie✅
 - Tonie Gliniki
 - Tonie Kąty
-- Tonie Skrzyżowanie
+- Tonie Skrzyżowanie✅
 - Tor Kajakowy
 - Torfowa
 - Trąbki P+R
@@ -1620,22 +1620,22 @@
 - Trojanowice Strugi
 - Truskawkowa
 - Tuchowska
-- Turowicza
+- Turowicza✅
 - Tymiankowa
-- Tyniec
+- Tyniec✅
 - Tyniec Kamieniołom
-- Tyniecka Autostrada
-- Ugorek
-- UJ / AST
+- Tyniecka Autostrada✅
+- Ugorek✅
+- UJ / AST✅
 - Ujazd Pętla
-- UKEN
+- UKEN✅
 - Ukraina
-- Uniwersytet Ekonomiczny
-- UR al. 29 Listopada
-- UR Balicka
+- Uniwersytet Ekonomiczny✅
+- UR al. 29 Listopada✅
+- UR Balicka✅
 - Urząd Marszałkowski
 - Urząd Skarbowy Nowa Huta
-- Urzędnicza
+- Urzędnicza✅
 - Vetulaniego
 - Wadowska
 - Wadów
@@ -1645,15 +1645,15 @@
 - Wadów Osiedle
 - Wadów Szkoła
 - Walcownia
-- Wały Wiślane
-- Wańkowicza
+- Wały Wiślane✅
+- Wańkowicza✅
 - Warchałowskiego
 - Warszewicza
-- Wawel
+- Wawel✅
 - Ważewskiego
 - Weigla
-- Wesele
-- Węglarska
+- Wesele✅
+- Węglarska✅
 - Węgrzce A1
 - Węgrzce B1
 - Węgrzce B4
@@ -1672,6 +1672,7 @@
 - Węgrzynowice Dół
 - Węgrzynowicka
 - Węzeł Wielicki
+- Wiadukty✅
 - Widłakowa
 - Wielicka Granica Miasta
 - Wieliczka Asnyka
@@ -1704,7 +1705,7 @@
 - Wielkie Drogi PKP
 - Wielkie Drogi Szkoła
 - Wielkie Drogi Trzebol
-- Wierzyńskiego
+- Wierzyńskiego✅
 - Więckowice Lipka
 - Więckowice Ogrodowa
 - Więcławice Stare Centrum
@@ -1720,14 +1721,14 @@
 - Wilków Kaplica
 - Wilków Pętla
 - Winnicka
-- Wiślicka
+- Wiślicka✅
 - Witkowice
 - Witkowice Nowe
 - Witkowicka
-- Witosa
-- Wlotowa
+- Witosa✅
+- Wlotowa✅
 - Władysława Jagiełły
-- Władysława Łokietka
+- Władysława Łokietka✅
 - Włosań Centrum
 - Włosań Dział Wschodni
 - Włosań Kopań
@@ -1741,7 +1742,7 @@
 - Wola Batorska Ruskie
 - Wola Batorska Zamoglice
 - Wola Batorska Żwirownia
-- Wola Duchacka
+- Wola Duchacka✅
 - Wola Luborzycka Działki
 - Wola Luborzycka Las
 - Wola Luborzycka Skrzyżowanie
@@ -1786,34 +1787,34 @@
 - Wrząsowice Spacerowa
 - Wrząsowice Wrzosowa
 - Wrząsowice Zielona
-- Wybickiego
+- Wybickiego✅
 - Wyciąska
 - Wyciąże Północ
 - Wyciąże Sklep
 - Wydział Farmaceutyczny UJ
-- Wyki
-- Wysiołek Luborzycki
+- Wyki✅
+- Wysiołek Luborzycki✅
 - Wysiołek Luborzycki Kapkazy
-- Wysiołek Luborzycki Radwany
-- Wysiołek Luborzycki Skrzyżowanie
+- Wysiołek Luborzycki Radwany✅
+- Wysiołek Luborzycki Skrzyżowanie✅
 - Wysłouchów
-- Wzgórza Krzesławickie
+- Wzgórza Krzesławickie✅
 - Zabawa Centrum
 - Zabawa Granica
 - Zabierzów Bocheński Centrum
-- Zabierzów Centrum
+- Zabierzów Centrum✅
 - Zabierzów Eximius Park
-- Zabierzów Kamieniołom
-- Zabierzów Kmity
-- Zabierzów Młyn
-- Zabierzów Ośrodek Zdrowia
-- Zabierzów Piaski
-- Zabierzów PKP
-- Zabierzów Rynek
-- Zabierzów Rzemieślnicza
-- Zabierzów Willowa
-- Zabierzów Wrzosowa
-- Zabłocie
+- Zabierzów Kamieniołom✅
+- Zabierzów Kmity✅
+- Zabierzów Młyn✅
+- Zabierzów Ośrodek Zdrowia✅
+- Zabierzów Piaski✅
+- Zabierzów PKP✅
+- Zabierzów Rynek✅
+- Zabierzów Rzemieślnicza✅
+- Zabierzów Willowa✅
+- Zabierzów Wrzosowa✅
+- Zabłocie✅
 - Zabłocie Kościelnickie
 - Zachodnia
 - Zagacie Górka
@@ -1822,24 +1823,24 @@
 - Zagórzyce Dworskie Remiza
 - Zagórzyce Stare Owocowa
 - Zajezdnia Bieńczyce
-- Zajezdnia Nowa Huta
+- Zajezdnia Nowa Huta✅
 - Zajezdnia Płaszów
-- Zajezdnia Wola Duchacka
-- Zakamycze
+- Zajezdnia Wola Duchacka✅
+- Zakamycze✅
 - Zakarnie
 - Zakępie
-- Zakliki
+- Zakliki✅
 - Zakliki SKA
 - Zakole
 - Zakrzów Ogrodzieniec
 - Zalew Zesławice
-- Zarzecze
+- Zarzecze✅
 - Zaskale
 - Zastów Działki
 - Zastów Pętla
 - Zawiła
 - Zawiszy
-- Zawodzie
+- Zawodzie✅
 - Zbrojarzy
 - Zbydniowice
 - Zbydniowicka
@@ -1855,7 +1856,7 @@
 - Zelków Wola
 - Zesławice
 - Zesławice Ogródki Działkowe
-- Zielińskiego
+- Zielińskiego✅
 - Zielonki Długopolska
 - Zielonki Galicyjska
 - Zielonki Jaskinia Zielonkowska
@@ -1866,13 +1867,13 @@
 - Zielonki Słoneczna
 - Zielonki Transformator
 - Zielonki Urząd Gminy
-- Zielony Dół
+- Zielony Dół✅
 - Złocieniowa
 - Złocień
 - ZOO
 - Żabiniec
 - Żelazowskiego
-- Żeromskiego
+- Żeromskiego✅
 - Żmujdzka
 - Żywiczna
 - Żywiecka
