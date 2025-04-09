@@ -13,6 +13,11 @@
 
 # Changelog
 
+## v1.0.0 (09.04.2025)
+- naprawienie zapętlonego dźwięku podczas pobytu w lokalizacji komunikatu przystanku
+- dodanie tras linii 172 (w kierunku Kombinat)
+- dodanie zapowiedzi "Następny przystanek:" dla tras linii: 1 (w kierunku Salwator), 172 (w kierunku Kombinat)
+
 ## v0.0.15 Beta (02.04.2025)
 - dodanie tras linii 248 (w kierunku Bronowice Małe)
 - dodanie oznaczenia żółtym tłem tras linii, które mają czasową zmianę trasy, w menu tras
