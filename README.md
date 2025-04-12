@@ -13,6 +13,10 @@
 
 # Changelog
 
+## v1.0.1 (12.04.2025)
+- dodanie zapowiedzi "Następny przystanek:" dla tras linii: 1 (w kierunku Jarzębiny), 3, 4, 5, 8
+- dodanie kilku kolejnych zapowiedzi przystanków
+
 ## v1.0.0 (09.04.2025)
 - naprawienie zapętlonego dźwięku podczas pobytu w lokalizacji komunikatu przystanku
 - dodanie tras linii 100, 101, 172 (w kierunku Kombinat)
