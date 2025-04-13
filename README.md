@@ -13,7 +13,7 @@
 
 # Changelog
 
-## v1.0.1 (12.04.2025)
+## v1.0.1 (13.04.2025)
 - dodanie zapowiedzi "Następny przystanek:" dla tras linii: 1 (w kierunku Jarzębiny), 3, 4, 5, 8
 - dodanie kilku kolejnych zapowiedzi przystanków
 
