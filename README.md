@@ -13,6 +13,13 @@
 
 # Changelog
 
+## v1.0.3 (19.04.2025)
+- dodanie reszty linii bez tras (dalsze przygotowanie pod wszystkie trasy)
+- dodanie kilku kolejnych zapowiedzi przystanków
+
+## v1.0.2 (15.04.2025)
+- dodanie większości linii bez tras (przygotowanie pod wszystkie trasy)
+
 ## v1.0.1 (13.04.2025)
 - dodanie zapowiedzi "Następny przystanek:" dla tras linii: 1 (w kierunku Jarzębiny), 3, 4, 5, 8
 - dodanie kilku kolejnych zapowiedzi przystanków
