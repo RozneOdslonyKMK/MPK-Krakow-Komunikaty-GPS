@@ -13,6 +13,10 @@
 
 # Changelog
 
+## v1.0.4 (13.05.2025)
+- dodanie kilku kolejnych zapowiedzi przystanków
+- update tras przez remonty
+
 ## v1.0.3 (19.04.2025)
 - dodanie reszty linii bez tras (dalsze przygotowanie pod wszystkie trasy)
 - dodanie kilku kolejnych zapowiedzi przystanków
