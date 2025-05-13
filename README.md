@@ -1288,7 +1288,7 @@
 - Prawocheńskiego
 - Prądnik Biały
 - Prądnik Biały Wschód✅
-- Prądnik Biały Zachód
+- Prądnik Biały Zachód✅
 - Prądnik Czerwony✅
 - Prokocim✅
 - Prokocim Rynek
