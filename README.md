@@ -13,6 +13,14 @@
 
 # Changelog
 
+## v1.0.6 (22.05.2025)
+- naprawienie przełączania między trybami
+- dodanie zapowiedzi "Następny przystanek:" dla tras linii: 9, 49
+- zmodyfikowanie pliku dźwiękowego zapowiedzi przystanku "Łagiewniki ZUS (nż)" na "Łagiewniki ZUS"
+
+## v1.0.5 (15.05.2025)
+- dodanie trybu alternatywnego z głosem Roberta Makłowicza (w trakcie prac, brak większości przystanków)
+
 ## v1.0.4 (13.05.2025)
 - dodanie kilku kolejnych zapowiedzi przystanków
 - update tras przez remonty
