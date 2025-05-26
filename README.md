@@ -13,6 +13,10 @@
 
 # Changelog
 
+## v1.0.7 (27.05.2025)
+- poprawki w przełączaniu między trybami
+- dodanie przełączników do lokalizacji użytkownika na mapie i centrowania tej lokalizacji
+
 ## v1.0.6 (22.05.2025)
 - naprawienie przełączania między trybami
 - dodanie zapowiedzi "Następny przystanek:" dla tras linii: 9, 49
