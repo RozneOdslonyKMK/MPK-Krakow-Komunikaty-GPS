@@ -13,6 +13,16 @@
 
 # Changelog
 
+## v2.0.0 (30.05.2025)
+- zmienienie logo i nazwy aplikacji
+- drobne poprawki w UI
+- dodanie zapowiedzi "Następny przystanek:" dla tras linii: 10 (w kierunku Kurdwanów P+R), 102
+- dodanie tras linii 102 (w kierunku Krowodrza Górka P+R)
+
+## v1.0.8 (29.05.2025)
+- kolejne poprawki w przełączaniu między trybami
+- dodanie kilku kolejnych zapowiedzi przystanków
+
 ## v1.0.7 (27.05.2025)
 - poprawki w przełączaniu między trybami
 - dodanie przełączników do lokalizacji użytkownika na mapie i centrowania tej lokalizacji
