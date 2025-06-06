@@ -13,9 +13,12 @@
 
 # Changelog
 
+## v2.0.2 (6.06.2025)
+- drobne poprawki plików dźwiękowych
+
 ## v2.0.1 (3.06.2025)
 - dodanie kilku kolejnych zapowiedzi przystanków
-- dodnie kilku okazjonalnych zapowiedzi przystanków
+- dodanie kilku okazjonalnych zapowiedzi przystanków
 - poprawienie jakości niektórych komunikatów
 
 ## v2.0.0 (30.05.2025)
