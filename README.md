@@ -13,6 +13,10 @@
 
 # Changelog
 
+## v2.0.3 (7.06.2025)
+- naprawienie błędu braku automatycznego odtwarzania komunikatów
+- dodanie kilku kolejnych zapowiedzi przystanków
+
 ## v2.0.2 (6.06.2025)
 - drobne poprawki plików dźwiękowych
 
