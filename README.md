@@ -7,7 +7,7 @@
 # Wymagania sprzętowe:
 - System Android 5.0 (lub nowszy)
 - Architektura systemu x86-64 (lub x64)
-- minimum 65 MB wolnej przestrzeni dyskowej
+- minimum 140 MB wolnej przestrzeni dyskowej
 - dostęp do internetu
 - dostęp do lokalizacji
 
