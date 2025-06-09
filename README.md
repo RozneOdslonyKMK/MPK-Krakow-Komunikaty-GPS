@@ -13,6 +13,9 @@
 
 # Changelog
 
+## v2.0.4 (9.06.2025)
+- dodanie zapowiedzi "Następny przystanek:" dla tras linii: 238 (w kierunku Bronowice Małe), 238 (w kierunku Bronowice Małe przez ZEP), 238 (w kierunku Bronowice Małe bez Rząska)
+
 ## v2.0.3 (7.06.2025)
 - naprawienie błędu braku automatycznego odtwarzania komunikatów
 - dodanie kilku kolejnych zapowiedzi przystanków
