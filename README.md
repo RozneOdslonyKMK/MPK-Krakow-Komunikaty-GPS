@@ -1,7 +1,7 @@
 # MPK Kraków - Komunikaty GPS
 
 - Nieoficjalna aplikacja **NIE** stworzona przez Miejskie Przedsiębiorstwo Komunikacyjne S.A. w Krakowie
-- Projekt ma na celu odtwarzać komunikat głosowy anonimowego lektora z autobusów i tramwajów MPK (przed 19.10.2024, kiedy zamieniono go na Roberta Makłowicza) podczas podchodzenia/podjeżdżania do danego przystanku
+- Projekt ma na celu odtwarzać komunikat głosowy Damiana Galona - lektora z autobusów i tramwajów MPK (przed 19.10.2024, kiedy zaczęto go zamieniać na Roberta Makłowicza) podczas podchodzenia/podjeżdżania do danego przystanku
 - Aplikacji możesz używać na przykład w pojeździe, w którym nie działają głośniki, lub jest ich brak albo podczas spaceru po trasie autobusów/tramwajów w Krakowie
 
 # Wymagania sprzętowe:
