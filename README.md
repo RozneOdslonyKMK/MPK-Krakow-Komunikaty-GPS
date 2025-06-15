@@ -13,6 +13,11 @@
 
 # Changelog
 
+## v2.1.0 (15.06.2025)
+- dodanie tras linii 0, 103, 104, 105, 106, 107, 109, 268, 278, 288
+- poprawienie współrzędnych wszystkich przystanków na zgodne z systemem ZTP
+- poprawienie błędnego wyświetlania niektórych linii ze zmianą trasy
+
 ## v2.0.4 (9.06.2025)
 - dodanie zapowiedzi "Następny przystanek:" dla tras linii: 238 (w kierunku Bronowice Małe), 238 (w kierunku Bronowice Małe przez ZEP), 238 (w kierunku Bronowice Małe bez Rząska)
 
