@@ -13,6 +13,14 @@
 
 # Changelog
 
+## v2.1.1w (21.06.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
+## v2.1.1 (18.06.2025)
+- dodanie tras linii 2, 6, 7, 13
+- korekta tras zgodnie z rozkładami po remoncie ul. Franciszkańskiej
+- naprawienie pliku dźwiękowego "Teatr Słowackiego"
+
 ## v2.1.0 (15.06.2025)
 - dodanie tras linii 0, 103, 104, 105, 106, 107, 109, 268, 278, 288
 - poprawienie współrzędnych wszystkich przystanków na zgodne z systemem ZTP
