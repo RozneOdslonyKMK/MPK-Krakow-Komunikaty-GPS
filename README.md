@@ -13,6 +13,9 @@
 
 # Changelog
 
+## v2.1.1wB (05.07.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
 ## v2.1.1wA (28.06.2025)
 - korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
 
