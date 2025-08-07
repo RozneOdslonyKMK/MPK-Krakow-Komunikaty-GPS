@@ -13,6 +13,26 @@
 
 # Changelog
 
+## v3.0.1 (7.08.2025)
+- dodanie ścieżki, po której porusza się dana linia tramwajowa/autobusowa dla linii: 0, 1, 3, 4, 8
+- drobne poprawki
+
+## v3.0.0 (5.08.2025)
+- zmiana systemu mapy z Google Maps na OpenStreetMap
+- naprawienie przełączników do lokalizacji użytkownika na mapie i centrowania tej lokalizacji
+
+## v2.1.2 (2.08.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+- dodanie kilku kolejnych zapowiedzi przystanków
+- dodanie kilku kolejnych tras linii
+- usunięcie trybu alternatywnego z głosem Roberta Makłowicza
+
+## v2.1.1wD (20.07.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
+## v2.1.1wC (13.07.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
 ## v2.1.1wB (05.07.2025)
 - korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
 
