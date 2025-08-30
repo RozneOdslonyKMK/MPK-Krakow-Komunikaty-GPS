@@ -13,6 +13,27 @@
 
 # Changelog
 
+## v3.1.0 (1.09.2025)
+- korekta linii i ich tras zgodnie z rozkładami powakacyjnymi i remontami
+
+## v3.0.7 (30.08.2025)
+- korekta linii i ich tras zgodnie z rozkładami powakacyjnymi i remontami
+
+## v3.0.6 (24.08.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
+## v3.0.5 (18.08.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
+## v3.0.4 (17.08.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
+## v3.0.3 (15.08.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
+## v3.0.2 (10.08.2025)
+- korekta linii i ich tras zgodnie z rozkładami wakacyjnymi i remontami
+
 ## v3.0.1 (7.08.2025)
 - dodanie ścieżki, po której porusza się dana linia tramwajowa/autobusowa dla linii: 0, 1, 3, 4, 8
 - drobne poprawki
