@@ -13,6 +13,13 @@
 
 # Changelog
 
+## v3.1.2 (8.09.2025)
+- dodanie tras linii 704
+- usunięcie tras linii 34
+
+## v3.1.1 (7.09.2025)
+- dodanie tras linii 34
+
 ## v3.1.0 (1.09.2025)
 - korekta linii i ich tras zgodnie z rozkładami powakacyjnymi i remontami
 
