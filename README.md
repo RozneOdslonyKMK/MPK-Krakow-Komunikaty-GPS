@@ -13,6 +13,23 @@
 
 # Changelog
 
+## v3.1.7 (27.09.2025)
+- dodanie tras linii 0
+- korekta linii i ich tras zgodnie z remontami
+
+## v3.1.6 (22.09.2025)
+- usunięcie tras linii 0
+
+## v3.1.5 (20.09.2025)
+- korekta linii i ich tras zgodnie z remontami
+
+## v3.1.4 (15.09.2025)
+- korekta linii i ich tras zgodnie z remontami
+- usunięcie tras linii 46, 550
+
+## v3.1.3 (14.09.2025)
+- dodanie tras linii 46, 550
+
 ## v3.1.2 (8.09.2025)
 - dodanie tras linii 704
 - usunięcie tras linii 34
