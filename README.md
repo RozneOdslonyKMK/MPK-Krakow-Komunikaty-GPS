@@ -1,4 +1,4 @@
-# MPK Kraków - Komunikaty GPS
+# Komunikaty KMK 2.0
 
 - Nieoficjalna aplikacja **NIE** stworzona przez Miejskie Przedsiębiorstwo Komunikacyjne S.A. w Krakowie
 - Projekt ma na celu odtwarzać komunikat głosowy Damiana Galona - lektora z autobusów i tramwajów MPK podczas podchodzenia/podjeżdżania do danego przystanku
