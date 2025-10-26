@@ -5,7 +5,7 @@
 - Aplikacji możesz używać na przykład w pojeździe, w którym nie działają głośniki, lub jest ich brak albo podczas spaceru po trasie autobusów/tramwajów w Krakowie
 - NOWA WERSJA 2.0 JUŻ W SOBOTĘ 31.10.2025!
 
-# Wymagania sprzętowe:
+# Wymagania sprzętowe
 - System Android 5.0 (lub nowszy)
 - Architektura systemu x86-64 (lub x64)
 - minimum 100 MB wolnej przestrzeni dyskowej
